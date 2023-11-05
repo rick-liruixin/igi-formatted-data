@@ -1,8 +1,11 @@
 {
-  "name": "igi-formatted-data",
+  "name": "@rick-liruixin/igi-formatted-data",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
